@@ -19,6 +19,3 @@ def ask_user():
 
 
 ask_user()
-# Write code that checks if user input is a question (i.e., ends in a ‘?’) and, if not,
-# prints “I’m sorry, I can only answer questions.” (or something similar)
-# Edit the program so that it keeps asking for user input until the user inputs “quit”
